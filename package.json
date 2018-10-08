@@ -1,0 +1,11 @@
+{
+  "name": "pantone-name",
+  "version": "1.0.0",
+  "description": "Convert a colour value to its nearest pantone name.",
+  "main": "namer.js",
+  "author": "Jon Packer <contact@jonpacker.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chroma-js": "^1.4.0"
+  }
+}
